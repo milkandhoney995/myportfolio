@@ -1,2 +1,2 @@
 # myportfolio
-This is my self-introduction portfolio created with WordPress.
+This is the zip file of my self-introduction portfolio created with WordPress.
